@@ -21,7 +21,7 @@ Now, brightness can be represented in 256 levels (0 to 255).
 
 
 <p align="center">
- RGB colour codes chart
+ RGB colour codes chart gif
 <img src="IMAGES/RGB_color_code_chart.gif" width="400">
 </p>
 
